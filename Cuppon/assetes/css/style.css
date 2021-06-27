@@ -1,0 +1,87 @@
+/* body {
+    background-color: yellow;
+} */
+
+.navbar-brand {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.card {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.card-body {
+    margin-bottom: 2%;
+}
+
+p {
+    font-size: 20pt;
+    color: #212529;
+}
+
+.direccion,
+.text-mute {
+    color: #707070;
+    font-family: Roboto;
+    font-size: 16pt;
+}
+
+.text-green {
+    color: #28A745;
+    font-family: Roboto, Medium;
+    font-size: 20pt;
+}
+
+#container {
+    margin: 0;
+    position: relative;
+    text-align: right;
+}
+
+#div1 {
+    display: inline-block;
+}
+
+#div2 {
+    display: inline-block;
+    position: relative;
+    right: 0;
+}
+
+.green {
+    color: #28A745;
+}
+
+.form-group {
+    color: white;
+    padding: 1%;
+    margin: 2%;
+}
+
+.form-control {
+    align-items: center;
+}
+
+.boton {
+    font-family: Roboto, Medium;
+    font-size: 16pt;
+    text-align: center;
+}
+
+.direccion,
+.marca {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+}
+
+.marca {
+    padding-top: 10%;
+}
+
+.direccion-centrada {
+    padding-bottom: 10%;
+    text-align: center;
+}
